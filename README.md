@@ -1,12 +1,12 @@
-![logo](activity-data/images/html-puzzleboxes.jpg)
+![logo](activity-data/images/chef-man.jpg)
 
-# Hack the News Activity
+# Web Chef Activity
 
 Learners will race to sequence the paper boxes labeled with HTML tags, **becoming familiar with the most common HTML tags and how to structure a web page**.
 
-It lasts about 45 minutes to a hour.
+It lasts about 1-2 hour.
 
-You can [view this activity online](http://mozilla.github.io/mozilla-club-activity-html-puzzle-boxes).
+You can [view this activity online](http://mozilla.github.io/mozilla-club-activity-web-chef).
 
 ---
 
