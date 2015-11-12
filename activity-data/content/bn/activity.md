@@ -11,9 +11,7 @@ competencies:
 
 ### ওয়েবের শেফ
 
-তৈরিকৃত [মজিলা](https://webmaker.org/mentor), এবং অনুপ্রাণিত [ক্রিয়েটিভ কোমনস](https://creativecommons.org/) এবং [P2PU স্কুল অফ ওপেন](https://p2pu.org/en/groups/teach-someone-something-
-
-with-open-content)। 
+তৈরিকৃত [মজিলা](https://webmaker.org/mentor), এবং অনুপ্রাণিত [ক্রিয়েটিভ কোমনস](https://creativecommons.org/) এবং [P2PU স্কুল অফ ওপেন](https://p2pu.org/en/groups/teach-someone-something-with-open-content)। 
 
 শিক্ষার্থীরা প্রতিযোগিতা করবে HTML ট্যাগগুলো শ্রেণীবদ্ধকৃত পেপার বক্সে ক্রমে সাজানোর জন্য, **সবচেয়ে প্রচলিত HTML ট্যাগগুলোর সাথে পরিচিত হওয়া এবং কিভাবে একটি ওয়েব পেইজকে নির্মাণ করা হয়**।
 
