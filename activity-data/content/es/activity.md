@@ -70,11 +70,11 @@ Introduce la idea de que los chefs pueden usar la web para ilustrar mejor sus re
 
 Explica que los chefs **reconocen su inspiración y dan atribución a otros**. Eso es parte de la cultura de compartir abiertamente.
 
-[Usa la plantilla de la Receta del chef de la web](https://michelle.makes.org/thimble/OTg5MDY5NTY4/web-chef-recipe), para hacer que las parejas secuencien los pasos de sus recetas y atribuyan el contenido de la web. Si tienes poca conectividad, solo usa lapuz y papel para escribir tu receta y mostrar qué recursos adicionales pueden ser añadidos.
+[Usa la plantilla de la Receta del chef de la web](https://michelle.makes.org/thimble/OTg5MDY5NTY4/web-chef-recipe), para hacer que las parejas secuencien los pasos de sus recetas y atribuyan el contenido de la web. Si tienes poca conectividad, solo usa lápiz y papel para escribir tu receta y mostrar qué recursos adicionales pueden ser añadidos.
 
 <a href="https://michelle.makes.org/thimble/OTg5MDY5NTY4/web-chef-recipe"><img class="img-example" src="http://mozilla.github.io/webmaker-curriculum/images/web-chef-project.png" width="75%"></a>
 
-**Si el tiempo lo permite, tus aprendices también pueden preparar su propio contenido web.** Piensa en tomar fotografías, hacer un video breve o escribir un nuevo texto como parte de una receta. Incluso puedes hacer que los aprendices creen estos recursos en sus teléfonos móviles, usando servicios como Flickr, Wikimedia Commons, SoundCloud y YouTube para hacer algo que puedan publicar a la web y añadirle una licencia abierta con facilidad.
+**Si el tiempo lo permite, tus aprendices también pueden preparar su propio contenido web.** Piensa en tomar fotografías, hacer un video breve o escribir un nuevo texto como parte de una receta. Incluso puedes hacer que los aprendices creen estos recursos en sus teléfonos móviles, usando servicios como Flickr, Wikimedia Commons, SoundCloud y YouTube para hacer algo que puedan publicar en la web y añadirle una licencia abierta con facilidad.
 
 <a href="https://laura.makes.org/thimble/MTczNjc1NTI=/web-chef-recipe"><img class="img-example" src="http://mozilla.github.io/webmaker-curriculum/images/web-chef-04.jpg"></a>
 
@@ -90,6 +90,6 @@ Explica que los chefs **reconocen su inspiración y dan atribución a otros**. E
 
 **Hazlo más desafiante** haciendo que las parejas completen la receta con los ojos tapados, o saltando en una pierna, etc.
 
-Después de algunas rondas, **reflexiones sobre que hizo buenas a las recetas**. ¿Qué otra información ayudaría? ¿Modificó alguien una receta mientras la seguía? De ser así, ¿por qué y cómo compartieron esa modificación con otros chefs?
+Después de algunas rondas, **reflexionen sobre que hizo buenas a las recetas**. ¿Qué otra información ayudaría? ¿Modificó alguien una receta mientras la seguía? De ser así, ¿por qué y cómo compartieron esa modificación con otros chefs?
 
 Completa el [cuestionario posterior a la actividad](http://goo.gl/forms/uOEzAbbH34), y haz que tus aprendices completen su [cuestionario posterior a la actividad](http://goo.gl/forms/ZeyNYQzc1t). 
