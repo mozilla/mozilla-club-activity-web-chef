@@ -22,5 +22,5 @@
 Chloe Varelidi
 P2PU Gruppen-Lernen mit offenen Inhalten in Berlin. 
                
-Weitere Community-Remixes
+#### Weitere Community-Remixes
 Siehe auch weitere Wege in unserem [Diskussions-Forum](http://discourse.webmaker.org/t/testing-2-writing-the-web/1195/3), wie Lehrende und Aktivisten diese Aktivität für ihr Publikum abgewandelt haben.
