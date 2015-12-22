@@ -21,5 +21,5 @@
 Chloe Varelidi
 P2PU peer learning with open content in Berlin. 
                
-See community remixes
+#### See community remixes
 Check out the ways educators and activists have modified this activity for their specific audiences in our [Discussion Forum](http://discourse.webmaker.org/t/testing-2-writing-the-web/1195/3). 

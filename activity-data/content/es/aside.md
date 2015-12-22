@@ -21,5 +21,5 @@
 Chloe Varelidi
 P2PU aprendizaje con compañeros con contenido abierto en Berlin.
 
-Mira también las mezclas de la comunidad
+#### Mira también las mezclas de la comunidad
 Revisa las distintas formas en que educadores y activistas han modificado esta actividad para sus audiencias específicas en nuestro [Foto de discusión](http://discourse.webmaker.org/t/testing-2-writing-the-web/1195/3). 
