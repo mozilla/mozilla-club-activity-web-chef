@@ -1,9 +1,9 @@
 [
-  {"name": "Bengali", "code": "bn"},
+  {"name": "বাংলা", "code": "bn"},
   {"name": "English", "code": "en"},
   {"name": "Español", "code": "es"},
-  {"name": "German", "code": "de"},
-    {"name": "Hindi", "code": "hi"},
+  {"name": "Deutsch", "code": "de"},
+  {"name": "हिन्दी", "code": "hi"},
   {"name": "Português", "code": "pt"}
 
 ]
