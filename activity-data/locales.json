@@ -4,6 +4,6 @@
   {"name": "Español", "code": "es"},
   {"name": "Deutsch", "code": "de"},
   {"name": "हिन्दी", "code": "hi"},
-  {"name": "Português", "code": "pt"}
-
+  {"name": "Português", "code": "pt"},
+  {"name": "Svenska", "code": "sv"}
 ]
