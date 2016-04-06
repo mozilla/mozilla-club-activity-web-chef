@@ -2,9 +2,17 @@
 title: Web Chef
 github: mozilla/mozilla-club-activity-web-chef
 image: chef-man.jpg
+competencies_label: Web Literacy Skills
 competencies:
-    - {label: "Open Practices", type: "open-practices"}
-    - {label: "Sharing", type: "sharing"}
+    - {label: "Connect", type: "connect"}
+    - {label: "Open Practice", type: "open-practice"}
+    - {label: "Remix", type: "remix"}
+    - {label: "Share", type: "share"}
+skills_label: 21st Century Skills
+skills: 
+    - {label: "Communication", type: "communication"}
+    - {label: "Problem Solving", type: "problem-solving"}
+    - {label: "Collaboration", type: "collaboration"}
 ---
 
 ## [Section 3. Participating on the Web](http://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/)
